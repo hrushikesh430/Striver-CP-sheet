@@ -1,0 +1,1 @@
+{"name":"Local: 2cp","url":"/home/hrushikesh430/cp sheet/2cp.cpp","tests":[{"id":1677054554625,"input":"27\n","output":"22\n"},{"id":1677054686725,"input":"4545\n","output":"4444\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrushikesh430/cp sheet/2cp.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 24cp","url":"/home/hrushikesh430/cp sheet/maths/24cp.cpp","tests":[{"id":1680758000780,"input":"5 4 3\n","output":"3 1\n"},{"id":1680758115262,"input":"6 8 2","output":"7 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrushikesh430/cp sheet/maths/24cp.cpp","group":"local","local":true}

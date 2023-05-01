@@ -1,0 +1,1 @@
+{"name":"Local: 43cp","url":"/home/hrushikesh430/cp sheet/maths/43cp.cpp","tests":[{"id":1681978421313,"input":"3\n3 2 4\n1 1 1\n10 1 7","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrushikesh430/cp sheet/maths/43cp.cpp","group":"local","local":true}

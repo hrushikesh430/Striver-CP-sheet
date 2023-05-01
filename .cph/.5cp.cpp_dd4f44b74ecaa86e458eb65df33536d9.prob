@@ -1,0 +1,1 @@
+{"name":"Local: 5cp","url":"/home/hrushikesh430/cp sheet/5cp.cpp","tests":[{"id":1677060099861,"input":"7 1 4\n","output":"6"},{"id":1677060862402,"input":"30 20 10\n","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrushikesh430/cp sheet/5cp.cpp","group":"local","local":true}

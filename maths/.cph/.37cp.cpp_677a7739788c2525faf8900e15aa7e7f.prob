@@ -1,0 +1,1 @@
+{"name":"Local: 37cp","url":"/home/hrushikesh430/cp sheet/maths/37cp.cpp","tests":[{"id":1681740885593,"input":"4\n0 1 1 1\n8 1 9 3\n0 0 0 0\n1000000000 1000000000 1000000000 1000000000","output":"No\nYes\nYes\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrushikesh430/cp sheet/maths/37cp.cpp","group":"local","local":true}

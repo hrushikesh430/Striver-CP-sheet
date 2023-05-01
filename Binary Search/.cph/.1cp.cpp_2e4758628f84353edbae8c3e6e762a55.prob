@@ -1,0 +1,1 @@
+{"name":"Local: 1cp","url":"/home/hrushikesh430/cp sheet/Binary Search/1cp.cpp","tests":[{"id":1682389253340,"input":"BBBSSC\n6 4 1\n1 2 3\n4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrushikesh430/cp sheet/Binary Search/1cp.cpp","group":"local","local":true}

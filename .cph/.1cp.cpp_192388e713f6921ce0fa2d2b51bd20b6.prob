@@ -1,0 +1,1 @@
+{"name":"Local: 1cp","url":"/home/hrushikesh430/cp sheet/1cp.cpp","tests":[{"id":1677054071209,"input":"1\n2\nX++\n--X\n","output":"0\n"},{"id":1677054082480,"input":"\n1\n++X\n","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hrushikesh430/cp sheet/1cp.cpp","group":"local","local":true}
